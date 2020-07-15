@@ -1,1 +1,0 @@
-# dmd-course-workshop
