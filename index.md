@@ -6,3 +6,6 @@
 - Gitbooks: [DMD 100](https://dmd-program.github.io/dmd-100-su19/), [DMD 300](https://dmd-program.github.io/dmd-300-sp20/), [DMD 400](https://dmd-program.github.io/dmd-400-sp20/)
 - [DMD Program](https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/digital-multimedia-design-bdes/)
 - [DART Program](https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/digital-arts-media-design-bdes/#programrequirementstext)
+
+---
+To edit this page: https://github.com/michael-collins/dmd-course-workshop/blob/master/index.md
