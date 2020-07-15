@@ -8,4 +8,5 @@
 - [DART Program](https://bulletins.psu.edu/undergraduate/colleges/arts-architecture/digital-arts-media-design-bdes/#programrequirementstext)
 
 ---
-To edit this page: https://github.com/michael-collins/dmd-course-workshop/blob/master/index.md
+
+[Edit this page](https://github.com/michael-collins/dmd-course-workshop/blob/master/index.md)
